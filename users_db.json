@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 137275020,
+      "username": "ja.goyette",
+      "firstName": "Wilford",
+      "lastName": "Klocko",
+      "email": "toby.terry@example.com",
+      "password": "277n0nc0gqnv35e",
+      "phone": "1-879-867-5814",
+      "userStatus": 0
+    },
+    {
+      "id": 286649365,
+      "username": "cornelius.hamill",
+      "firstName": "Ralph",
+      "lastName": "Pouros",
+      "email": "whitley.damore@example.com",
+      "password": "fv7kk09hnmz",
+      "phone": "1-539-963-4976",
+      "userStatus": 0
+    },
+    {
+      "id": 726186,
+      "username": "clifford.gerlach",
+      "firstName": "Emerald",
+      "lastName": "Rolfson",
+      "email": "abdul.gerlach@example.com",
+      "password": "6b6pfyfdvde5bna",
+      "phone": "1-517-074-3333",
+      "userStatus": 0
+    },
+    {
+      "id": 137275020,
+      "username": "robbie.kuhn",
+      "firstName": "Jasper",
+      "lastName": "Lemke",
+      "email": "willetta.gutmann@example.com",
+      "password": "iklo7ashfr",
+      "phone": "328-666-7067",
+      "userStatus": 0
+    },
+    {
+      "id": 1455695758,
+      "username": "hailey.bednar",
+      "firstName": "Faviola",
+      "lastName": "Hegmann",
+      "email": "pablo.monahan@example.com",
+      "password": "wr8c8d3b0",
+      "phone": "212-448-6081",
+      "userStatus": 0
+    },
+    {
+      "id": 1455695758,
+      "username": "napoleon.brakus",
+      "firstName": "Jack",
+      "lastName": "Rolfson",
+      "email": "boyd.lemke@example.com",
+      "password": "fnyh0do9",
+      "phone": "(139) 754-2002",
+      "userStatus": 0
+    },
+    {
+      "id": 807328355,
+      "username": "mechelle.white",
+      "firstName": "Charise",
+      "lastName": "McLaughlin",
+      "email": "rosie.huels@example.com",
+      "password": "yk58vc8p0y",
+      "phone": "135-796-0643",
+      "userStatus": 0
+    },
+    {
+      "id": 807328355,
+      "username": "estela.grady",
+      "firstName": "Muriel",
+      "lastName": "Towne",
+      "email": "dong.rau@example.com",
+      "password": "3fvn13zf",
+      "phone": "357.664.8461",
+      "userStatus": 0
+    },
+    {
+      "id": 807328355,
+      "username": "rory.koelpin",
+      "firstName": "Lewis",
+      "lastName": "McDermott",
+      "email": "kristal.bauch@example.com",
+      "password": "h3z3ue1b9qtss48",
+      "phone": "152.266.0508",
+      "userStatus": 0
+    }
+  ]
+}
